@@ -1,0 +1,6 @@
+//este pacote, serve para acesso aos dados
+package com.rc.springmongo.repository;
+
+public interface UserRepository {
+
+}
