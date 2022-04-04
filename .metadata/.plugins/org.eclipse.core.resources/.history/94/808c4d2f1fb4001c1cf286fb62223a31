@@ -1,0 +1,21 @@
+package com.rc.springmongo.dto;
+
+import com.rc.springmongo.domain.User;
+
+public class UserDTO {
+
+	private String id;
+	private String name;
+	private String email;
+
+	public UserDTO() {
+	}
+
+	// automatizar um UserDTO apartir de um USer
+	public UserDTO(User obj) {
+		id = obj.getId();
+		name = obj.getName();
+		email = obj.getEmail();
+	}
+
+}
