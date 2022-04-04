@@ -1,0 +1,5 @@
+package com.rc.springmongo.config;
+
+public class Instantiation {
+
+}
