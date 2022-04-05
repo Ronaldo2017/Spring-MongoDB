@@ -1,0 +1,5 @@
+package com.rc.springmongo.resources.exceptions;
+
+public class ResourceExceptionHandler {
+
+}
