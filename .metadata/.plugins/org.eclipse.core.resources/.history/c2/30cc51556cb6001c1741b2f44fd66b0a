@@ -1,0 +1,5 @@
+package com.rc.springmongo.domain;
+
+public class Post {
+
+}

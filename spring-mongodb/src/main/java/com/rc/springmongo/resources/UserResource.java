@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
-import org.springframework.web.util.UriComponents;
 
 import com.rc.springmongo.domain.User;
 import com.rc.springmongo.dto.UserDTO;
