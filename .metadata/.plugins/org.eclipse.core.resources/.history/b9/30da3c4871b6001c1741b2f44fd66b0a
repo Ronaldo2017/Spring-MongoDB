@@ -1,0 +1,5 @@
+package com.rc.springmongo.dto;
+
+public class AuthorDTO {
+
+}
