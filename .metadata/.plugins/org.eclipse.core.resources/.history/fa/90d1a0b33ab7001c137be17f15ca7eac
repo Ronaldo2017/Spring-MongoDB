@@ -1,0 +1,5 @@
+package com.rc.springmongo.resources.util;
+
+public class URL {
+
+}
